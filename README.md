@@ -1,2 +1,1 @@
-# odin-recipes
-Odin Project Workspace
+Odin-project foundations project: Recipes
